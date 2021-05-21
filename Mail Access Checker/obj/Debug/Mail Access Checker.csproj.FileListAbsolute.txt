@@ -1,0 +1,8 @@
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\obj\Debug\Mail Access Checker.csprojAssemblyReference.cache
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\obj\Debug\Mail Access Checker.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\bin\Debug\Mail Access Checker.exe.config
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\bin\Debug\Mail Access Checker.exe
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\bin\Debug\Mail Access Checker.pdb
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\obj\Debug\Mail Access Checker.csproj.CopyComplete
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\obj\Debug\Mail Access Checker.exe
+C:\Users\Kaneki\Desktop\Mail Access Checker\Mail Access Checker\Mail Access Checker\obj\Debug\Mail Access Checker.pdb
