@@ -11,7 +11,6 @@
 **FR:** A but educatif seulement.  
 **EN:** For educational purposes only.  
 
-
 ## 💻 Features
 - Using a thread for fast checking
 
